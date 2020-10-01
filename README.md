@@ -2,9 +2,8 @@
 ![platforms](https://img.shields.io/badge/platforms-Android%20|%20iOS-brightgreen.svg)
 [![npm](https://img.shields.io/badge/npm-0.0.1-blue)](https://www.npmjs.com/package/react-native-touch-ripple)
 [![travis](https://travis-ci.org/gusgard/react-native-swiper-flatlist.svg?branch=master)](https://www.npmjs.com/package/react-native-touch-ripple)
-Base component for touchable elements with ripple effect
 
-
+![Demo](https://github.com/noddy1996/react-native-touch-ripple/blob/master/example/demo/demo.gif)
 
 ## Features
 
