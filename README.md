@@ -29,14 +29,14 @@ yarn add react-native-touch-ripple
 ```javascript
 import React, { Component } from 'react';
 import { Text } from 'react-native';
-import TouchRipple  from 'react-native-touch-ripple'
+import TouchableRipple  from 'react-native-touch-ripple'
 
 class Example extends Component {
   render() {
     return (
-      <TouchRipple>
+      <TouchableRipple>
         <Text>Press Here</Text>
-      </TouchRipple>
+      </TouchableRipple>
     );
   }
 }
