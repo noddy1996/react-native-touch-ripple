@@ -1,7 +1,7 @@
 # react-native-touch-ripple
 Base component for touchable elements with ripple effect
 ![platforms](https://img.shields.io/badge/platforms-Android%20|%20iOS-brightgreen.svg)
-[![npm](https://img.shields.io/npm/v/react-native-swiper-flatlist.svg)](https://www.npmjs.com/package/react-native-swiper-flatlist)
+[![npm](https://img.shields.io/badge/npm-0.0.1-blue)](https://www.npmjs.com/package/react-native-swiper-flatlist)
 [npm-url]: https://www.npmjs.com/package/react-native-touch-ripple
 
 
