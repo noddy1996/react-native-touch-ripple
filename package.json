@@ -1,6 +1,6 @@
 {
   "name": "react-native-touch-ripple",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Base component for touchable elements with ripple effect ",
   "main": "index.js",
   "repository": {
