@@ -1,0 +1,33 @@
+{
+  "name": "react-native-touch-ripple",
+  "version": "0.0.1",
+  "description": "Base component for touchable elements with ripple effect ",
+  "main": "index.js",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.0",
+    "eslint": "^6.5.0",
+    "eslint-plugin-react": "^7.16.0",
+    "eslint-plugin-react-native": "^3.7.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  },
+  "scripts": {
+    "lint": "eslint index.js styles.js "
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "ripple",
+    "material"
+  ],
+  "author": "shammi rathore <shammi.rathore66@gmail.com> (http://amusoftech.com/)",
+  "license": "ISC"
+}
