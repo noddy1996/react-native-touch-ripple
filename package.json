@@ -3,18 +3,22 @@
   "version": "0.0.1",
   "description": "Base component for touchable elements with ripple effect ",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/noddy1996/react-native-touch-ripple.git"
+  },
   "peerDependencies": {
     "react": "*",
     "react-native": "*"
   },
   "devDependencies": {
-    "babel-eslint": "^10.0.0",
-    "eslint": "^6.5.0",
-    "eslint-plugin-react": "^7.16.0",
-    "eslint-plugin-react-native": "^3.7.0"
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.10.0",
+    "eslint-plugin-react": "^7.21.2",
+    "eslint-plugin-react-native": "^3.10.0"
   },
   "dependencies": {
-    "prop-types": "^15.5.10"
+    "prop-types": "^15.7.2"
   },
   "scripts": {
     "lint": "eslint index.js styles.js "
